@@ -4,7 +4,7 @@ Critical Mass (MASS) is an ERC-20 token deployed on Base Mainnet using thirdwebâ
 
 ## Key Links
 - Network: Base Mainnet
-- Contract Address: (paste here)
+- Contract Address: (0x7a500D8A14CeeC2c9155aBF2657D072E132C9a1A)
 - Deployer Wallet: 0xbf68711C53295088aE93A09f6B2567810f944aDE
 
 ## Repository Contents
