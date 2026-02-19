@@ -1,3 +1,5 @@
+Token-level documentation and metadata for Critical Mass (MASS) deployed on Base.
+
 # Critical Mass (MASS)
 
 Critical Mass (MASS) is an experimental ERC-20 token deployed on the Base network. The project explores how shared ownership, transparency, and long-term participation can create collective momentum (“critical mass”) in decentralized systems.
